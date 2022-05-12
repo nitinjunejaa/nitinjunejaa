@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nitin Kumar</h1>
 <h3 align="center">A passionate programmer from India.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinvashisht1&label=Profile%20views&color=0e75b6&style=flat" alt="jatinvashisht1" /> </p>
 
-- 🌱 I’m currently learning Android Devlopment **JAVA, XM**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatinvashisht1" alt="jatinvashisht1" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/https://twitter.com/jatin_vashisht1" target="blank"></a> </p>
+- 🌱 I’m currently learning C++, Android Devlopment **JAVA, XML**
 
 - 👨‍💻 All of my projects are available at [www.github.com/nitinjunejaa](www.github.com/nitinjunejaa)
 
