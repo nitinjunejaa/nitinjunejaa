@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitinjunejaa" alt="nitinjunejaa" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/nitinjunejaa" target="blank"></a> </p>
-- 🌱 I’m currently learning C++, Android Devlopment **JAVA, XML**
+- 🌱 I’m currently learning C++, Android Devlopment **Kotlin, XML**
 
 - 👨‍💻 All of my projects are available at [www.github.com/nitinjunejaa](www.github.com/nitinjunejaa)
 
